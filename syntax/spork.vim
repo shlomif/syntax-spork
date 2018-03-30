@@ -5,8 +5,7 @@
 " Version:	0.1
 " Last Change:  2005 Nov 11 - very, very, very beta release
 " Description:	Long description.
-" License:	Unknown - see
-" https://github.com/statico/dotfiles/blob/master/.vim/syntax/spork.vim
+" License:	Public Domain ( CC0 )
 " Location:	syntax/spork.vim
 " Website:	https://github.com/shlomif/syntax-spork
 "
